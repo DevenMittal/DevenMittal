@@ -10,11 +10,15 @@ I work on machine learning for particle tracking at **Lawrence Berkeley National
 
 Previously, I was a **machine learning intern at DoorDash**, working on the Optimal Tips model. I’ve also worked on Kubernetes monitoring, audio classification, and embedded voice-command models.
 
+I’m also VP of Projects at **Codebase**. Previously, I was a project manager and software developer there. I also tutored CS 61B.
+
 ## Team project
 
 ### [AlloyFinance AI](https://github.com/diyahasteer/alloyfinance-ai) · Project Manager, Codebase
 
 I served as project manager for this Codebase team project with Google. The team built a transaction-analysis app using React, FastAPI, AlloyDB, and Vertex AI, with natural-language questions about spending.
+
+[Team demo](https://www.youtube.com/watch?v=lq5N6Gwwk_g) · [Team writeup](https://medium.com/berkeley-codebase/codebase-x-google-project-spotlight-series-alloy-finance-e6e2e64e22cc) · [Google Cloud sample](https://github.com/GoogleCloudPlatform/alloydb-omni-samples/tree/main/experimental/alloydb-finance-ai)
 
 ## Selected projects
 
