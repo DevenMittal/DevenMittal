@@ -12,9 +12,9 @@ Previously, I was a **machine learning intern at DoorDash**, working on the Opti
 
 ## Team project
 
-### [AlloyFinance AI](https://github.com/diyahasteer/alloyfinance-ai) · PM, Codebase project with Google
+### [AlloyFinance AI](https://github.com/diyahasteer/alloyfinance-ai) · Project Manager, Codebase
 
-I served as PM for this Codebase project with Google. Our team built a transaction-analysis app using React, FastAPI, AlloyDB, and Vertex AI, with natural-language questions about spending.
+I served as project manager for this Codebase team project with Google. The team built a transaction-analysis app using React, FastAPI, AlloyDB, and Vertex AI, with natural-language questions about spending.
 
 ## Selected projects
 
