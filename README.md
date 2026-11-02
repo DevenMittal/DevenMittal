@@ -26,11 +26,11 @@ These projects trace some of my earlier work with neural networks, search, and o
 
 | Project | What I built |
 | --- | --- |
-| [Neural Network from Scratch](https://github.com/DevenMittal/NeuralNetwork) | A C# feedforward network with backpropagation, an XOR example, and a separate sine-wave visualizer. |
 | [Genetic Art](https://github.com/DevenMittal/Genetic-Art) | An image-approximation experiment that mutates translucent triangles and selects candidates by pixel error. |
 | [Flappy Bird AI](https://github.com/DevenMittal/Flappy-Bird) | A MonoGame simulation with a small neural network for each bird and experiments with crossover and mutation. |
 | [Monte Carlo Checkers](https://github.com/DevenMittal/Monte-Carlo-Tree---Checkers) | A console checkers experiment with UCT selection, random rollouts, and backpropagated outcomes. |
 | [LLM Inference Energy Analysis](https://github.com/DevenMittal/KPMG-LLM-Energy-Consumption-and-Sustainabiility) | A team notebook I contributed to, exploring existing inference-energy measurements through plots and a decision-tree regressor. |
+| [Neural Network from Scratch](https://github.com/DevenMittal/NeuralNetwork) | A smaller C# learning project with backpropagation, an XOR example, and a sine-wave visualizer. |
 
 These are learning projects, with different levels of completeness. Some desktop applications require Windows or older MonoGame tooling.
 
