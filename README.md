@@ -27,6 +27,7 @@ These projects trace some of my earlier work with neural networks, search, and o
 | Project | What I built |
 | --- | --- |
 | [Genetic Art](https://github.com/DevenMittal/Genetic-Art) | An image-approximation experiment that mutates translucent triangles and selects candidates by pixel error. |
+| [PlatformerCore](https://github.com/DevenMittal/PlatformerCore) | A MonoGame platformer with animated movement, collectible gems, JSON-backed levels, and a separate visual map editor. |
 | [Flappy Bird AI](https://github.com/DevenMittal/Flappy-Bird) | A MonoGame simulation with a small neural network for each bird and experiments with crossover and mutation. |
 | [Monte Carlo Checkers](https://github.com/DevenMittal/Monte-Carlo-Tree---Checkers) | A console checkers experiment with UCT selection, random rollouts, and backpropagated outcomes. |
 | [LLM Inference Energy Analysis](https://github.com/DevenMittal/KPMG-LLM-Energy-Consumption-and-Sustainabiility) | A team notebook I contributed to, exploring existing inference-energy measurements through plots and a decision-tree regressor. |
@@ -36,4 +37,4 @@ These are learning projects, with different levels of completeness. Some desktop
 
 ### Earlier games
 
-I also built [Asteroids](https://github.com/DevenMittal/Asteroids), [Brick Breaker](https://github.com/DevenMittal/Brick-Breaker), and [Space Invader](https://github.com/DevenMittal/Space-Invader) in C# with MonoGame.
+I also built [Aim Trainer](https://github.com/DevenMittal/Aim-Trainer), [Asteroids](https://github.com/DevenMittal/Asteroids), [Brick Breaker](https://github.com/DevenMittal/Brick-Breaker), [Food Stacker](https://github.com/DevenMittal/Food-Stacker), and [Space Invader](https://github.com/DevenMittal/Space-Invader) in C# with MonoGame.
